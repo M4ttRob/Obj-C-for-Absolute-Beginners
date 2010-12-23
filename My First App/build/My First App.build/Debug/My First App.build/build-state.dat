@@ -1,0 +1,129 @@
+TMy First App
+v7
+r0
+t314682735.157141
+cCheck dependencies
+cProcessPCH "/var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My First App_Prefix-fxdssrejjvhkijdohewxoupbwkyi/My First App_Prefix.pch.gch" "My First App_Prefix.pch" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/My First App.build/Debug/My First App.build/Objects-normal/x86_64/My First App.o" "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/My First App.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/My First App.build/Debug/My First App.build/Objects-normal/x86_64/HelloWorld.o" "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/HelloWorld.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/Debug/My First App" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CA8DA260000000000B3E910
+t1286134310
+s11790608
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/HelloWorld.h
+c000000004D117402000000000000011E
+t1292989442
+s286
+i<Cocoa/Cocoa.h>
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/HelloWorld.m
+c000000004D1175ED0000000000000180
+t1292989933
+s384
+i"HelloWorld.h"
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/My First App.m
+c000000004D1171A10000000000000186
+t1292988833
+s390
+i<Foundation/Foundation.h>
+i"HelloWorld.h"
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/My First App_Prefix.pch
+c000000004D1169BF00000000000000A6
+t1292986815
+s166
+i<Foundation/Foundation.h>
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/Debug/My First App
+t1292989935
+s10568
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/My First App.build/Debug/My First App.build/Objects-normal/x86_64/HelloWorld.o
+t1292989935
+s8252
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/My First App.build/Debug/My First App.build/Objects-normal/x86_64/My First App.LinkFileList
+c000000004D116E70000000000000013A
+t1292988016
+s314
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/My First App.build/Debug/My First App.build/Objects-normal/x86_64/My First App.o
+t1292989442
+s7288
+
+N/var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My First App_Prefix-fxdssrejjvhkijdohewxoupbwkyi/My First App_Prefix.pch.gch
+t1292988021
+s41429776
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies314682734#314682734#0(0"0(0#1#0"8622835488#0"0#
+
+CCompileC "build/My First App.build/Debug/My First App.build/Objects-normal/x86_64/HelloWorld.o" "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/HelloWorld.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314682734.896340
+e314682735.139157
+r1
+xCompileC
+xbuild/My First App.build/Debug/My First App.build/Objects-normal/x86_64/HelloWorld.o
+x/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/HelloWorld.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/HelloWorld.m314682734#314682735#0(0"0(0#0#83"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/HelloWorld.m8604015424#1938"    cd "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/My First App.build/Debug/My First App.build/My First App-generated-files.hmap" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/My First App.build/Debug/My First App.build/My First App-own-target-headers.hmap" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/My First App.build/Debug/My First App.build/My First App-all-target-headers.hmap" -iquote "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/My First App.build/Debug/My First App.build/My First App-project-headers.hmap" "-F/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/Debug" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/Debug/include" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/My First App.build/Debug/My First App.build/DerivedSources/x86_64" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/My First App.build/Debug/My First App.build/DerivedSources" -include "/var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My First App_Prefix-fxdssrejjvhkijdohewxoupbwkyi/My First App_Prefix.pch" -c "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/HelloWorld.m" -o "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/My First App.build/Debug/My First App.build/Objects-normal/x86_64/HelloWorld.o"0#
+
+CCompileC "build/My First App.build/Debug/My First App.build/Objects-normal/x86_64/My First App.o" "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/My First App.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314682242.563426
+e314682242.853950
+r1
+xCompileC
+xbuild/My First App.build/Debug/My First App.build/Objects-normal/x86_64/My First App.o
+x/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/My First App.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/My First App.m314682242#314682242#0(0"0(0#0#85"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/My First App.m8616493728#1942"    cd "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/My First App.build/Debug/My First App.build/My First App-generated-files.hmap" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/My First App.build/Debug/My First App.build/My First App-own-target-headers.hmap" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/My First App.build/Debug/My First App.build/My First App-all-target-headers.hmap" -iquote "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/My First App.build/Debug/My First App.build/My First App-project-headers.hmap" "-F/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/Debug" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/Debug/include" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/My First App.build/Debug/My First App.build/DerivedSources/x86_64" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/My First App.build/Debug/My First App.build/DerivedSources" -include "/var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My First App_Prefix-fxdssrejjvhkijdohewxoupbwkyi/My First App_Prefix.pch" -c "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/My First App.m" -o "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/My First App.build/Debug/My First App.build/Objects-normal/x86_64/My First App.o"0#
+
+CLd "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/Debug/My First App" normal x86_64
+s314682735.139254
+e314682735.157077
+r1
+xLd
+x/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/Debug/My First App
+xnormal
+xx86_64
+lSLF07#2@100"Link /Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/Debug/My First App314682735#314682735#0(0"0(0#0#0"8618325312#710"    cd "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/Debug" "-F/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/Debug" -filelist "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/My First App.build/Debug/My First App.build/Objects-normal/x86_64/My First App.LinkFileList" -mmacosx-version-min=10.6 -framework Foundation -o "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/Debug/My First App"0#
+
+CProcessPCH "/var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My First App_Prefix-fxdssrejjvhkijdohewxoupbwkyi/My First App_Prefix.pch.gch" "My First App_Prefix.pch" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314680816.842623
+e314680821.324445
+r1
+xProcessPCH
+x/var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My First App_Prefix-fxdssrejjvhkijdohewxoupbwkyi/My First App_Prefix.pch.gch
+xMy First App_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile My First App_Prefix.pch314680816#314680821#0(0"0(0#0#94"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/My First App_Prefix.pch8623477056#1793"    cd "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/My First App.build/Debug/My First App.build/My First App-generated-files.hmap" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/My First App.build/Debug/My First App.build/My First App-own-target-headers.hmap" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/My First App.build/Debug/My First App.build/My First App-all-target-headers.hmap" -iquote "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/My First App.build/Debug/My First App.build/My First App-project-headers.hmap" "-F/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/Debug" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/Debug/include" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/My First App.build/Debug/My First App.build/DerivedSources/x86_64" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/build/My First App.build/Debug/My First App.build/DerivedSources" -c "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/My First App/My First App_Prefix.pch" -o "/var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My First App_Prefix-fxdssrejjvhkijdohewxoupbwkyi/My First App_Prefix.pch.gch"0#
+

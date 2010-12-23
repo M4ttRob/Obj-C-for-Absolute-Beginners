@@ -1,0 +1,135 @@
+TRadioSimulation
+v7
+r0
+t314702073.226194
+cCheck dependencies
+cProcessPCH /var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RadioSimulation_Prefix-awuymwvgpdsbhchazlsblozbkhuu/RadioSimulation_Prefix.pch.gch RadioSimulation_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RadioSimulation.build/Debug/RadioSimulation.build/Objects-normal/x86_64/RadioSimulation.o "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioSimulation.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RadioSimulation.build/Debug/RadioSimulation.build/Objects-normal/x86_64/RadioStation.o "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioStation.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/Debug/RadioSimulation" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CA8DA260000000000B3E910
+t1286134310
+s11790608
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioSimulation.m
+c000000004D11C3EF00000000000004C8
+t1293009903
+s1224
+i<Foundation/Foundation.h>
+i"RadioStation.h"
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioSimulation_Prefix.pch
+c000000004D11B1A300000000000000AC
+t1293005219
+s172
+i<Foundation/Foundation.h>
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioStation.h
+c000000004D11BF71000000000000027D
+t1293008753
+s637
+i<Cocoa/Cocoa.h>
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioStation.m
+c000000004D11C1600000000000000466
+t1293009248
+s1126
+i"RadioStation.h"
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/Debug/RadioSimulation
+t1293009273
+s16064
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/RadioSimulation.build/Debug/RadioSimulation.build/Objects-normal/x86_64/RadioSimulation.LinkFileList
+c000000004D11B5BC0000000000000151
+t1293006268
+s337
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/RadioSimulation.build/Debug/RadioSimulation.build/Objects-normal/x86_64/RadioSimulation.o
+t1293009273
+s10048
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/RadioSimulation.build/Debug/RadioSimulation.build/Objects-normal/x86_64/RadioStation.o
+t1293009250
+s14608
+
+N/var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RadioSimulation_Prefix-awuymwvgpdsbhchazlsblozbkhuu/RadioSimulation_Prefix.pch.gch
+t1293006272
+s41429776
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies314702072#314702072#0(0"0(0#1#0"8602998016#0"0#
+
+CCompileC build/RadioSimulation.build/Debug/RadioSimulation.build/Objects-normal/x86_64/RadioSimulation.o "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioSimulation.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314702072.783358
+e314702073.208672
+r1
+xCompileC
+xbuild/RadioSimulation.build/Debug/RadioSimulation.build/Objects-normal/x86_64/RadioSimulation.o
+x/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioSimulation.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioSimulation.m314702072#314702073#0(0"0(0#0#91"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioSimulation.m8620313216#2039"    cd "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/RadioSimulation.build/Debug/RadioSimulation.build/RadioSimulation-generated-files.hmap" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/RadioSimulation.build/Debug/RadioSimulation.build/RadioSimulation-own-target-headers.hmap" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/RadioSimulation.build/Debug/RadioSimulation.build/RadioSimulation-all-target-headers.hmap" -iquote "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/RadioSimulation.build/Debug/RadioSimulation.build/RadioSimulation-project-headers.hmap" "-F/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/Debug" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/Debug/include" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/RadioSimulation.build/Debug/RadioSimulation.build/DerivedSources/x86_64" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/RadioSimulation.build/Debug/RadioSimulation.build/DerivedSources" -include /var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RadioSimulation_Prefix-awuymwvgpdsbhchazlsblozbkhuu/RadioSimulation_Prefix.pch -c "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioSimulation.m" -o "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/RadioSimulation.build/Debug/RadioSimulation.build/Objects-normal/x86_64/RadioSimulation.o"0#
+
+CCompileC build/RadioSimulation.build/Debug/RadioSimulation.build/Objects-normal/x86_64/RadioStation.o "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioStation.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314702049.515029
+e314702050.129158
+r1
+xCompileC
+xbuild/RadioSimulation.build/Debug/RadioSimulation.build/Objects-normal/x86_64/RadioStation.o
+x/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioStation.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioStation.m:65: warning: incomplete implementation of class 'RadioStation'
+o/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioStation.m:65: warning: method definition for '-band' not found
+o/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioStation.m:65: warning: method definition for '-setFrequency:' not found
+o/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioStation.m:65: warning: method definition for '-frequncy' not found
+o/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioStation.m:65: warning: method definition for '-setName:' not found
+o/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioStation.m:65: warning: method definition for '-name' not found
+lSLF07#2@96"Compile /Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioStation.m314702049#314702050#0(879"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioStation.m:65: warning: incomplete implementation of class 'RadioStation'/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioStation.m:65: warning: method definition for '-band' not found/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioStation.m:65: warning: method definition for '-setFrequency:' not found/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioStation.m:65: warning: method definition for '-frequncy' not found/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioStation.m:65: warning: method definition for '-setName:' not found/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioStation.m:65: warning: method definition for '-name' not found6(22@49"Incomplete implementation of class 'RadioStation'314702049#0#152#0(6@88"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioStation.m314702048#65#0#65#0#38"incomplete implementation of class '*'0(22@39"Method definition for '-band' not found314702049#152#142#0(6@88"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioStation.m314702048#65#0#65#0#35"method definition for '*' not found0(22@48"Method definition for '-setFrequency:' not found314702049#294#151#0(6@88"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioStation.m314702048#65#0#65#0#35"method definition for '*' not found0(22@43"Method definition for '-frequncy' not found314702049#445#146#0(6@88"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioStation.m314702048#65#0#65#0#35"method definition for '*' not found0(22@43"Method definition for '-setName:' not found314702049#591#146#0(6@88"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioStation.m314702048#65#0#65#0#35"method definition for '*' not found0(22@39"Method definition for '-name' not found314702049#737#142#0(6@88"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioStation.m314702048#65#0#65#0#35"method definition for '*' not found0(0#0#88"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioStation.m8612304160#2033"    cd "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/RadioSimulation.build/Debug/RadioSimulation.build/RadioSimulation-generated-files.hmap" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/RadioSimulation.build/Debug/RadioSimulation.build/RadioSimulation-own-target-headers.hmap" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/RadioSimulation.build/Debug/RadioSimulation.build/RadioSimulation-all-target-headers.hmap" -iquote "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/RadioSimulation.build/Debug/RadioSimulation.build/RadioSimulation-project-headers.hmap" "-F/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/Debug" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/Debug/include" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/RadioSimulation.build/Debug/RadioSimulation.build/DerivedSources/x86_64" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/RadioSimulation.build/Debug/RadioSimulation.build/DerivedSources" -include /var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RadioSimulation_Prefix-awuymwvgpdsbhchazlsblozbkhuu/RadioSimulation_Prefix.pch -c "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioStation.m" -o "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/RadioSimulation.build/Debug/RadioSimulation.build/Objects-normal/x86_64/RadioStation.o"0#
+
+CLd "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/Debug/RadioSimulation" normal x86_64
+s314702073.208769
+e314702073.226122
+r1
+xLd
+x/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/Debug/RadioSimulation
+xnormal
+xx86_64
+lSLF07#2@106"Link /Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/Debug/RadioSimulation314702073#314702073#0(0"0(0#0#0"8622590528#737"    cd "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/Debug" "-F/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/Debug" -filelist "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/RadioSimulation.build/Debug/RadioSimulation.build/Objects-normal/x86_64/RadioSimulation.LinkFileList" -mmacosx-version-min=10.6 -framework Foundation -o "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/Debug/RadioSimulation"0#
+
+CProcessPCH /var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RadioSimulation_Prefix-awuymwvgpdsbhchazlsblozbkhuu/RadioSimulation_Prefix.pch.gch RadioSimulation_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314699068.994845
+e314699073.021327
+r1
+xProcessPCH
+x/var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RadioSimulation_Prefix-awuymwvgpdsbhchazlsblozbkhuu/RadioSimulation_Prefix.pch.gch
+xRadioSimulation_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile RadioSimulation_Prefix.pch314699069#314699073#0(0"0(0#0#100"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioSimulation_Prefix.pch8464340872587732992#1878"    cd "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/RadioSimulation.build/Debug/RadioSimulation.build/RadioSimulation-generated-files.hmap" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/RadioSimulation.build/Debug/RadioSimulation.build/RadioSimulation-own-target-headers.hmap" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/RadioSimulation.build/Debug/RadioSimulation.build/RadioSimulation-all-target-headers.hmap" -iquote "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/RadioSimulation.build/Debug/RadioSimulation.build/RadioSimulation-project-headers.hmap" "-F/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/Debug" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/Debug/include" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/RadioSimulation.build/Debug/RadioSimulation.build/DerivedSources/x86_64" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/build/RadioSimulation.build/Debug/RadioSimulation.build/DerivedSources" -c "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RadioSimulation/RadioSimulation_Prefix.pch" -o /var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RadioSimulation_Prefix-awuymwvgpdsbhchazlsblozbkhuu/RadioSimulation_Prefix.pch.gch0#
+

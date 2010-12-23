@@ -1,0 +1,176 @@
+TMyBookstore
+v7
+r0
+t314706197.104272
+cCheck dependencies
+cProcessPCH /var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyBookstore_Prefix-eruieyxaaplzuafdgdyaexdelnws/MyBookstore_Prefix.pch.gch MyBookstore_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyBookstore.build/Debug/MyBookstore.build/Objects-normal/x86_64/MyBookstore.o "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/MyBookstore.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyBookstore.build/Debug/MyBookstore.build/Objects-normal/x86_64/Book.o "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Book.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyBookstore.build/Debug/MyBookstore.build/Objects-normal/x86_64/Bookstore.o "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CA8DA260000000000B3E910
+t1286134310
+s11790608
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Book.h
+c000000004D11C8660000000000000192
+t1293011046
+s402
+i<Cocoa/Cocoa.h>
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Book.m
+c000000004D11CD2100000000000000D9
+t1293012257
+s217
+i"Book.h"
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.h
+c000000004D11CB5900000000000001A4
+t1293011801
+s420
+i<Cocoa/Cocoa.h>
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m
+c000000004D11CF7100000000000003B7
+t1293012849
+s951
+i"Bookstore.h"
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/MyBookstore.m
+c000000004D11D18F00000000000002F7
+t1293013391
+s759
+i<Foundation/Foundation.h>
+i"Bookstore.h"
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/MyBookstore_Prefix.pch
+c000000004D11C5BF00000000000000A4
+t1293010367
+s164
+i<Foundation/Foundation.h>
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/Debug/MyBookstore
+t2
+s0
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/MyBookstore.build/Debug/MyBookstore.build/Objects-normal/x86_64/Book.o
+t1293013397
+s10560
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/MyBookstore.build/Debug/MyBookstore.build/Objects-normal/x86_64/Bookstore.o
+t2
+s0
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/MyBookstore.build/Debug/MyBookstore.build/Objects-normal/x86_64/MyBookstore.LinkFileList
+c000000004D11D18F00000000000001C5
+t1293013391
+s453
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/MyBookstore.build/Debug/MyBookstore.build/Objects-normal/x86_64/MyBookstore.o
+t2
+s0
+
+N/var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyBookstore_Prefix-eruieyxaaplzuafdgdyaexdelnws/MyBookstore_Prefix.pch.gch
+t1293013395
+s41429776
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies314706191#314706191#0(0"0(0#1#0"8621249920#0"0#
+
+CCompileC build/MyBookstore.build/Debug/MyBookstore.build/Objects-normal/x86_64/Book.o "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Book.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314706195.500863
+e314706197.104154
+r1
+xCompileC
+xbuild/MyBookstore.build/Debug/MyBookstore.build/Objects-normal/x86_64/Book.o
+x/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Book.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Book.m314706195#314706197#0(0"0(0#0#76"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Book.m8670351808#1893"    cd "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/MyBookstore.build/Debug/MyBookstore.build/MyBookstore-generated-files.hmap" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/MyBookstore.build/Debug/MyBookstore.build/MyBookstore-own-target-headers.hmap" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/MyBookstore.build/Debug/MyBookstore.build/MyBookstore-all-target-headers.hmap" -iquote "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/MyBookstore.build/Debug/MyBookstore.build/MyBookstore-project-headers.hmap" "-F/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/Debug" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/Debug/include" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/MyBookstore.build/Debug/MyBookstore.build/DerivedSources/x86_64" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/MyBookstore.build/Debug/MyBookstore.build/DerivedSources" -include /var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyBookstore_Prefix-eruieyxaaplzuafdgdyaexdelnws/MyBookstore_Prefix.pch -c "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Book.m" -o "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/MyBookstore.build/Debug/MyBookstore.build/Objects-normal/x86_64/Book.o"0#
+
+CCompileC build/MyBookstore.build/Debug/MyBookstore.build/Objects-normal/x86_64/Bookstore.o "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314706195.501904
+e314706197.078081
+r0
+xCompileC
+xbuild/MyBookstore.build/Debug/MyBookstore.build/Objects-normal/x86_64/Bookstore.o
+x/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m:9:
+o/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.h:21: error: expected ')' before 'Book'
+o/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m:23: error: expected ')' before 'Book'
+o/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m: In function '-[Bookstore addBook:]':
+o/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m:24: error: request for member 'title' in something not a structure or union
+o/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m:24: warning: 'NSDictionary' may not respond to '-setObject:forKey:'
+o/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m:24: warning: (Messages without a matching method signature
+o/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m:24: warning: will be assumed to return 'id' and accept
+o/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m:24: warning: '...' as arguments.)
+o/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m: In function '-[Bookstore removeBookWithTitle:]':
+o/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m:30: warning: 'NSDictionary' may not respond to '-removeObjectForKey:'
+o/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m: In function '-[Bookstore printInventory]':
+o/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m:37: error: 'Book' undeclared (first use in this function)
+o/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m:37: error: (Each undeclared identifier is reported only once
+o/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m:37: error: for each function it appears in.)
+o/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m:37: error: 'book' undeclared (first use in this function)
+lSLF07#2@89"Compile /Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m314706195#314706197#0(2129"In file included from /Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m:9:/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.h:21: error: expected ')' before 'Book'/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m:23: error: expected ')' before 'Book'/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m: In function '-[Bookstore addBook:]':/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m:24: error: request for member 'title' in something not a structure or union/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m:24: warning: 'NSDictionary' may not respond to '-setObject:forKey:'/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m:24: warning: (Messages without a matching method signature/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m:24: warning: will be assumed to return 'id' and accept/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m:24: warning: '...' as arguments.)/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m: In function '-[Bookstore removeBookWithTitle:]':/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m:30: warning: 'NSDictionary' may not respond to '-removeObjectForKey:'/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m: In function '-[Bookstore printInventory]':/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m:37: error: 'Book' undeclared (first use in this function)/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m:37: error: (Each undeclared identifier is reported only once/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m:37: error: for each function it appears in.)/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m:37: error: 'book' undeclared (first use in this function)8(4@26"Expected ')' before 'Book'314706197#107#120#2(7@103"In file included from /Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m314706197#18446744073709551615#0#0(6@81"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m314705649#9#0#9#0#0"0(13@111"Expected ')' before 'Book' in /Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.h314706197#18446744073709551615#0#0(6@81"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.h314704601#21#0#21#0#0"0(6@81"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.h314704601#21#0#21#0#19"expected * before *0(4@26"Expected ')' before 'Book'314706197#227#120#0(6@81"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m314705649#23#0#23#0#19"expected * before *0(4@64"Request for member 'title' in something not a structure or union314706197#467#158#0(6@81"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m314705649#24#0#24#0#0"0(22@54"'NSDictionary' may not respond to '-setObject:forKey:'314706197#625#150#0(6@81"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m314705649#24#0#24#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)314706197#775#141#0(6@81"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m314705649#24#0#24#0#0"0(22@56"'NSDictionary' may not respond to '-removeObjectForKey:'314706197#1301#152#0(6@81"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m314705649#30#0#30#0#26"'*' may not respond to '*'0(4@46"'Book' undeclared (first use in this function)314706197#1579#140#0(6@81"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m314705649#37#0#37#0#43"'*' undeclared (first use in this function)0(4@46"'book' undeclared (first use in this function)314706197#1989#140#0(6@81"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m314705649#37#0#37#0#43"'*' undeclared (first use in this function)0(0#0#81"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m8668200800#1903"    cd "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/MyBookstore.build/Debug/MyBookstore.build/MyBookstore-generated-files.hmap" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/MyBookstore.build/Debug/MyBookstore.build/MyBookstore-own-target-headers.hmap" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/MyBookstore.build/Debug/MyBookstore.build/MyBookstore-all-target-headers.hmap" -iquote "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/MyBookstore.build/Debug/MyBookstore.build/MyBookstore-project-headers.hmap" "-F/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/Debug" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/Debug/include" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/MyBookstore.build/Debug/MyBookstore.build/DerivedSources/x86_64" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/MyBookstore.build/Debug/MyBookstore.build/DerivedSources" -include /var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyBookstore_Prefix-eruieyxaaplzuafdgdyaexdelnws/MyBookstore_Prefix.pch -c "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.m" -o "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/MyBookstore.build/Debug/MyBookstore.build/Objects-normal/x86_64/Bookstore.o"1#
+
+CCompileC build/MyBookstore.build/Debug/MyBookstore.build/Objects-normal/x86_64/MyBookstore.o "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/MyBookstore.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314706195.499606
+e314706197.074189
+r0
+xCompileC
+xbuild/MyBookstore.build/Debug/MyBookstore.build/Objects-normal/x86_64/MyBookstore.o
+x/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/MyBookstore.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/MyBookstore.m:2:
+o/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.h:21: error: expected ')' before 'Book'
+o/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/MyBookstore.m: In function 'main':
+o/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/MyBookstore.m:8: error: 'Book' undeclared (first use in this function)
+o/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/MyBookstore.m:8: error: (Each undeclared identifier is reported only once
+o/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/MyBookstore.m:8: error: for each function it appears in.)
+o/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/MyBookstore.m:8: error: 'newBook' undeclared (first use in this function)
+o/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/MyBookstore.m:15: error: expected ';' before ']' token
+o/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/MyBookstore.m:15: error: expected statement before ']' token
+lSLF07#2@91"Compile /Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/MyBookstore.m314706195#314706197#0(1147"In file included from /Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/MyBookstore.m:2:/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.h:21: error: expected ')' before 'Book'/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/MyBookstore.m: In function 'main':/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/MyBookstore.m:8: error: 'Book' undeclared (first use in this function)/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/MyBookstore.m:8: error: (Each undeclared identifier is reported only once/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/MyBookstore.m:8: error: for each function it appears in.)/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/MyBookstore.m:8: error: 'newBook' undeclared (first use in this function)/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/MyBookstore.m:15: error: expected ';' before ']' token/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/MyBookstore.m:15: error: expected statement before ']' token5(4@26"Expected ')' before 'Book'314706197#109#120#2(7@105"In file included from /Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/MyBookstore.m314706197#18446744073709551615#0#0(6@83"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/MyBookstore.m314706191#2#0#2#0#0"0(13@111"Expected ')' before 'Book' in /Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.h314706197#18446744073709551615#0#0(6@81"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.h314704601#21#0#21#0#0"0(6@81"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/Bookstore.h314704601#21#0#21#0#19"expected * before *0(4@46"'Book' undeclared (first use in this function)314706197#334#141#0(6@83"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/MyBookstore.m314706191#8#0#8#0#43"'*' undeclared (first use in this function)0(4@49"'newBook' undeclared (first use in this function)314706197#747#144#0(6@83"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/MyBookstore.m314706191#8#0#8#0#43"'*' undeclared (first use in this function)0(4@29"Expected ';' before ']' token314706197#891#125#0(6@83"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/MyBookstore.m314706191#15#0#15#0#19"expected * before *0(4@35"Expected statement before ']' token314706197#1016#131#0(6@83"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/MyBookstore.m314706191#15#0#15#0#19"expected * before *0(0#0#83"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/MyBookstore.m8642136192#1907"    cd "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/MyBookstore.build/Debug/MyBookstore.build/MyBookstore-generated-files.hmap" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/MyBookstore.build/Debug/MyBookstore.build/MyBookstore-own-target-headers.hmap" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/MyBookstore.build/Debug/MyBookstore.build/MyBookstore-all-target-headers.hmap" -iquote "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/MyBookstore.build/Debug/MyBookstore.build/MyBookstore-project-headers.hmap" "-F/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/Debug" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/Debug/include" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/MyBookstore.build/Debug/MyBookstore.build/DerivedSources/x86_64" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/MyBookstore.build/Debug/MyBookstore.build/DerivedSources" -include /var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyBookstore_Prefix-eruieyxaaplzuafdgdyaexdelnws/MyBookstore_Prefix.pch -c "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/MyBookstore.m" -o "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/MyBookstore.build/Debug/MyBookstore.build/Objects-normal/x86_64/MyBookstore.o"1#
+
+CLd "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/Debug/MyBookstore" normal x86_64
+r0
+
+CProcessPCH /var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyBookstore_Prefix-eruieyxaaplzuafdgdyaexdelnws/MyBookstore_Prefix.pch.gch MyBookstore_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314706191.606310
+e314706195.499349
+r1
+xProcessPCH
+x/var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyBookstore_Prefix-eruieyxaaplzuafdgdyaexdelnws/MyBookstore_Prefix.pch.gch
+xMyBookstore_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile MyBookstore_Prefix.pch314706191#314706195#0(0"0(0#0#92"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/MyBookstore_Prefix.pch8645001408#1762"    cd "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/MyBookstore.build/Debug/MyBookstore.build/MyBookstore-generated-files.hmap" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/MyBookstore.build/Debug/MyBookstore.build/MyBookstore-own-target-headers.hmap" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/MyBookstore.build/Debug/MyBookstore.build/MyBookstore-all-target-headers.hmap" -iquote "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/MyBookstore.build/Debug/MyBookstore.build/MyBookstore-project-headers.hmap" "-F/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/Debug" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/Debug/include" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/MyBookstore.build/Debug/MyBookstore.build/DerivedSources/x86_64" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/build/MyBookstore.build/Debug/MyBookstore.build/DerivedSources" -c "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/MyBookstore/MyBookstore_Prefix.pch" -o /var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyBookstore_Prefix-eruieyxaaplzuafdgdyaexdelnws/MyBookstore_Prefix.pch.gch0#
+

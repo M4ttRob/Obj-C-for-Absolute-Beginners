@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Bookstore' target in the 'Bookstore' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

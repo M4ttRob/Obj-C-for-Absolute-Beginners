@@ -1,0 +1,228 @@
+TBookstore
+v7
+r0
+t314618383.879479
+cCheck dependencies
+cProcessInfoPlistFile "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug/Bookstore.app/Contents/Info.plist" Bookstore-Info.plist
+cCopyStringsFile "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug/Bookstore.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/English.lproj/MainMenu.xib"
+cProcessPCH /var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bookstore_Prefix-felkwtxlcgbtxjcetoxiwylgjfkh/Bookstore_Prefix.pch.gch Bookstore_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bookstore.build/Debug/Bookstore.build/Objects-normal/x86_64/main.o "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bookstore.build/Debug/Bookstore.build/Objects-normal/x86_64/BookstoreAppDelegate.o "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/BookstoreAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bookstore.build/Debug/Bookstore.build/Objects-normal/x86_64/Customer.o "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/Customer.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug/Bookstore.app/Contents/MacOS/Bookstore" normal x86_64
+cTouch "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug/Bookstore.app"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/BookstoreAppDelegate.h
+c000000004D1071C30000000000000138
+t1292923331
+s312
+i<Cocoa/Cocoa.h>
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/BookstoreAppDelegate.m
+c000000004D1071C3000000000000016F
+t1292923331
+s367
+i"BookstoreAppDelegate.h"
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/Bookstore_Prefix.pch
+c000000004D1071C30000000000000095
+t1292923331
+s149
+i<Cocoa/Cocoa.h>
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/Customer.h
+c000000004D1074AC00000000000001C2
+t1292924076
+s450
+i<Cocoa/Cocoa.h>
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/Customer.m
+c000000004D10724900000000000000B7
+t1292923465
+s183
+i"Customer.h"
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/English.lproj/InfoPlist.strings
+c000000004D1071C3000000000000002D
+t1292923331
+s45
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/English.lproj/MainMenu.xib
+c000000004D1071C3000000000002BB81
+t1292923331
+s179073
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Bookstore.build/Debug/Bookstore.build/Objects-normal/x86_64/Bookstore.LinkFileList
+c000000004D107A7F00000000000001BB
+t1292925567
+s443
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Bookstore.build/Debug/Bookstore.build/Objects-normal/x86_64/BookstoreAppDelegate.o
+t1292925583
+s21208
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Bookstore.build/Debug/Bookstore.build/Objects-normal/x86_64/Customer.o
+t1292925583
+s7216
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Bookstore.build/Debug/Bookstore.build/Objects-normal/x86_64/main.o
+t1292925583
+s5048
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug/Bookstore.app
+t1292925583
+s102
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug/Bookstore.app/Contents/Info.plist
+t1292925568
+s892
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug/Bookstore.app/Contents/MacOS/Bookstore
+t1292925583
+s16312
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug/Bookstore.app/Contents/PkgInfo
+t1292925568
+s8
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug/Bookstore.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1292925569
+s92
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug/Bookstore.app/Contents/Resources/English.lproj/MainMenu.nib
+t1292925569
+s34413
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/main.m
+c000000004D1071C300000000000000F6
+t1292923331
+s246
+i<Cocoa/Cocoa.h>
+
+N/var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bookstore_Prefix-felkwtxlcgbtxjcetoxiwylgjfkh/Bookstore_Prefix.pch.gch
+t1292925582
+s54306576
+
+NBookstore-Info.plist
+c000000004D1071C300000000000003EA
+t1292923331
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies314618367#314618367#0(0"0(0#1#0"8247620834010738688#0"0#
+
+CCompileC build/Bookstore.build/Debug/Bookstore.build/Objects-normal/x86_64/BookstoreAppDelegate.o "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/BookstoreAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314618382.889725
+e314618383.156541
+r1
+xCompileC
+xbuild/Bookstore.build/Debug/Bookstore.build/Objects-normal/x86_64/BookstoreAppDelegate.o
+x/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/BookstoreAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/BookstoreAppDelegate.m314618382#314618383#0(0"0(0#0#90"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/BookstoreAppDelegate.m8627940992#1863"    cd "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Bookstore.build/Debug/Bookstore.build/Bookstore-generated-files.hmap" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Bookstore.build/Debug/Bookstore.build/Bookstore-own-target-headers.hmap" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Bookstore.build/Debug/Bookstore.build/Bookstore-all-target-headers.hmap" -iquote "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Bookstore.build/Debug/Bookstore.build/Bookstore-project-headers.hmap" "-F/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug/include" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Bookstore.build/Debug/Bookstore.build/DerivedSources/x86_64" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Bookstore.build/Debug/Bookstore.build/DerivedSources" -include /var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bookstore_Prefix-felkwtxlcgbtxjcetoxiwylgjfkh/Bookstore_Prefix.pch -c "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/BookstoreAppDelegate.m" -o "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Bookstore.build/Debug/Bookstore.build/Objects-normal/x86_64/BookstoreAppDelegate.o"0#
+
+CCompileC build/Bookstore.build/Debug/Bookstore.build/Objects-normal/x86_64/Customer.o "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/Customer.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314618382.891068
+e314618383.156763
+r1
+xCompileC
+xbuild/Bookstore.build/Debug/Bookstore.build/Objects-normal/x86_64/Customer.o
+x/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/Customer.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/Customer.m:14: warning: incomplete implementation of class 'Customer'
+o/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/Customer.m:14: warning: method definition for '-listPurchaseHistory' not found
+lSLF07#2@86"Compile /Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/Customer.m314618382#314618383#0(285"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/Customer.m:14: warning: incomplete implementation of class 'Customer'/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/Customer.m:14: warning: method definition for '-listPurchaseHistory' not found2(22@45"Incomplete implementation of class 'Customer'314618382#0#138#0(6@78"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/Customer.m314616265#14#0#14#0#38"incomplete implementation of class '*'0(22@54"Method definition for '-listPurchaseHistory' not found314618382#138#147#0(6@78"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/Customer.m314616265#14#0#14#0#35"method definition for '*' not found0(0#0#78"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/Customer.m8624672352#1839"    cd "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Bookstore.build/Debug/Bookstore.build/Bookstore-generated-files.hmap" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Bookstore.build/Debug/Bookstore.build/Bookstore-own-target-headers.hmap" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Bookstore.build/Debug/Bookstore.build/Bookstore-all-target-headers.hmap" -iquote "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Bookstore.build/Debug/Bookstore.build/Bookstore-project-headers.hmap" "-F/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug/include" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Bookstore.build/Debug/Bookstore.build/DerivedSources/x86_64" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Bookstore.build/Debug/Bookstore.build/DerivedSources" -include /var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bookstore_Prefix-felkwtxlcgbtxjcetoxiwylgjfkh/Bookstore_Prefix.pch -c "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/Customer.m" -o "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Bookstore.build/Debug/Bookstore.build/Objects-normal/x86_64/Customer.o"0#
+
+CCompileC build/Bookstore.build/Debug/Bookstore.build/Objects-normal/x86_64/main.o "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314618382.888226
+e314618383.156992
+r1
+xCompileC
+xbuild/Bookstore.build/Debug/Bookstore.build/Objects-normal/x86_64/main.o
+x/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/main.m314618382#314618383#0(0"0(0#0#74"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/main.m8629162336#1831"    cd "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Bookstore.build/Debug/Bookstore.build/Bookstore-generated-files.hmap" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Bookstore.build/Debug/Bookstore.build/Bookstore-own-target-headers.hmap" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Bookstore.build/Debug/Bookstore.build/Bookstore-all-target-headers.hmap" -iquote "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Bookstore.build/Debug/Bookstore.build/Bookstore-project-headers.hmap" "-F/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug/include" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Bookstore.build/Debug/Bookstore.build/DerivedSources/x86_64" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Bookstore.build/Debug/Bookstore.build/DerivedSources" -include /var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bookstore_Prefix-felkwtxlcgbtxjcetoxiwylgjfkh/Bookstore_Prefix.pch -c "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/main.m" -o "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Bookstore.build/Debug/Bookstore.build/Objects-normal/x86_64/main.o"0#
+
+CCompileXIB "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/English.lproj/MainMenu.xib"
+s314618368.232852
+e314618369.438834
+r1
+xCompileXIB
+x/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib314618368#314618369#0(0"0(0#0#94"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/English.lproj/MainMenu.xib8631033152#459"    cd "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug/Bookstore.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/English.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug/Bookstore.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s314618368.231929
+e314618369.177315
+r1
+xCopyStringsFile
+x/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug/Bookstore.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings314618368#314618369#0(0"0(0#0#99"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/English.lproj/InfoPlist.strings8631869984#429"    cd "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug/Bookstore.app/Contents/Resources/English.lproj"0#
+
+CLd "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug/Bookstore.app/Contents/MacOS/Bookstore" normal x86_64
+s314618383.157054
+e314618383.858014
+r1
+xLd
+x/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug/Bookstore.app/Contents/MacOS/Bookstore
+xnormal
+xx86_64
+lSLF07#2@123"Link /Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug/Bookstore.app/Contents/MacOS/Bookstore314618383#314618383#0(0"0(0#0#0"8628351712#707"    cd "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug" "-F/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug" -filelist "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Bookstore.build/Debug/Bookstore.build/Objects-normal/x86_64/Bookstore.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug/Bookstore.app/Contents/MacOS/Bookstore"0#
+
+CProcessInfoPlistFile "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug/Bookstore.app/Contents/Info.plist" Bookstore-Info.plist
+s314618367.954787
+e314618368.231821
+r1
+xProcessInfoPlistFile
+x/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug/Bookstore.app/Contents/Info.plist
+xBookstore-Info.plist
+lSLF07#2@28"Process Bookstore-Info.plist314618367#314618368#0(0"0(0#0#88"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/Bookstore-Info.plist8031170940776694784#409"    cd "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore"    builtin-infoPlistUtility Bookstore-Info.plist -genpkginfo "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug/Bookstore.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug/Bookstore.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bookstore_Prefix-felkwtxlcgbtxjcetoxiwylgjfkh/Bookstore_Prefix.pch.gch Bookstore_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314618369.439006
+e314618382.887863
+r1
+xProcessPCH
+x/var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bookstore_Prefix-felkwtxlcgbtxjcetoxiwylgjfkh/Bookstore_Prefix.pch.gch
+xBookstore_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Bookstore_Prefix.pch314618369#314618382#0(0"0(0#0#88"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/Bookstore_Prefix.pch8626370752#1704"    cd "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Bookstore.build/Debug/Bookstore.build/Bookstore-generated-files.hmap" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Bookstore.build/Debug/Bookstore.build/Bookstore-own-target-headers.hmap" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Bookstore.build/Debug/Bookstore.build/Bookstore-all-target-headers.hmap" -iquote "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Bookstore.build/Debug/Bookstore.build/Bookstore-project-headers.hmap" "-F/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug/include" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Bookstore.build/Debug/Bookstore.build/DerivedSources/x86_64" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Bookstore.build/Debug/Bookstore.build/DerivedSources" -c "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/Bookstore_Prefix.pch" -o /var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bookstore_Prefix-felkwtxlcgbtxjcetoxiwylgjfkh/Bookstore_Prefix.pch.gch0#
+
+CTouch "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug/Bookstore.app"
+s314618383.858133
+e314618383.879410
+r1
+xTouch
+x/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug/Bookstore.app
+lSLF07#2@99"Touch /Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug/Bookstore.app314618383#314618383#0(0"0(0#0#0"8628097696#195"    cd "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore"    /usr/bin/touch -c "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/Bookstore/build/Debug/Bookstore.app"0#
+

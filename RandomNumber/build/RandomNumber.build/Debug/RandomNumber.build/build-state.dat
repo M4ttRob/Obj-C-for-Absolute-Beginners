@@ -1,0 +1,158 @@
+TRandomNumber
+v7
+r0
+t314667638.777835
+cCheck dependencies
+cProcessPCH /var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RandomNumber_Prefix-aklxagmemhrpqlfjdmcygnejvpsa/RandomNumber_Prefix.pch.gch RandomNumber_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RandomNumber.build/Debug/RandomNumber.build/Objects-normal/x86_64/RandomNumber.o "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/RandomNumber.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/build/Debug/RandomNumber" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CA8DA260000000000B3E910
+t1286134310
+s11790608
+
+N/Users/Matthew/Desktop/Chapter 4/RandomNumber/RandomNumber.m
+c000000004D10697D00000000000005F4
+t1292921213
+s1524
+i<Foundation/Foundation.h>
+
+N/Users/Matthew/Desktop/Chapter 4/RandomNumber/RandomNumber_Prefix.pch
+c000000004C2BCEC900000000000000A6
+t1277939401
+s166
+i<Foundation/Foundation.h>
+
+N/Users/Matthew/Desktop/Chapter 4/RandomNumber/build/Debug/RandomNumber
+t1292921216
+s9488
+
+N/Users/Matthew/Desktop/Chapter 4/RandomNumber/build/RandomNumber.build/Debug/RandomNumber.build/Objects-normal/x86_64/RandomNumber.LinkFileList
+c000000004D1065020000000000000085
+t1292920066
+s133
+
+N/Users/Matthew/Desktop/Chapter 4/RandomNumber/build/RandomNumber.build/Debug/RandomNumber.build/Objects-normal/x86_64/RandomNumber.o
+t1292921216
+s9464
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/RandomNumber.m
+c000000004D113B9600000000000005F5
+t1292974998
+s1525
+i<Foundation/Foundation.h>
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/RandomNumber_Prefix.pch
+c000000004C2BCEC900000000000000A6
+t1277939401
+s166
+i<Foundation/Foundation.h>
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/build/Debug/RandomNumber
+t1292974787
+s9536
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/build/RandomNumber.build/Debug/RandomNumber.build/Objects-normal/x86_64/RandomNumber.LinkFileList
+c000000004D113AB2000000000000009E
+t1292974770
+s158
+
+N/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/build/RandomNumber.build/Debug/RandomNumber.build/Objects-normal/x86_64/RandomNumber.o
+t1292974786
+s9512
+
+N/var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RandomNumber_Prefix-aklxagmemhrpqlfjdmcygnejvpsa/RandomNumber_Prefix.pch.gch
+t1292974786
+s41429776
+
+N/var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RandomNumber_Prefix-gvdgfnkkfzhfdtaxjcjyuqukufir/RandomNumber_Prefix.pch.gch
+t1292920068
+s41429776
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies314667638#314667638#0(0"0(0#1#0"8595859072#0"0#
+
+CCompileC build/RandomNumber.build/Debug/RandomNumber.build/Objects-normal/x86_64/RandomNumber.o "/Users/Matthew/Desktop/Chapter 4/RandomNumber/RandomNumber.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314614015.803084
+e314614016.063768
+r1
+xCompileC
+xbuild/RandomNumber.build/Debug/RandomNumber.build/Objects-normal/x86_64/RandomNumber.o
+x/Users/Matthew/Desktop/Chapter 4/RandomNumber/RandomNumber.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/Matthew/Desktop/Chapter 4/RandomNumber/RandomNumber.m314614015#314614016#0(0"0(0#0#60"/Users/Matthew/Desktop/Chapter 4/RandomNumber/RandomNumber.m8621245056#1665"    cd "/Users/Matthew/Desktop/Chapter 4/RandomNumber"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Matthew/Desktop/Chapter 4/RandomNumber/build/RandomNumber.build/Debug/RandomNumber.build/RandomNumber-generated-files.hmap" "-I/Users/Matthew/Desktop/Chapter 4/RandomNumber/build/RandomNumber.build/Debug/RandomNumber.build/RandomNumber-own-target-headers.hmap" "-I/Users/Matthew/Desktop/Chapter 4/RandomNumber/build/RandomNumber.build/Debug/RandomNumber.build/RandomNumber-all-target-headers.hmap" -iquote "/Users/Matthew/Desktop/Chapter 4/RandomNumber/build/RandomNumber.build/Debug/RandomNumber.build/RandomNumber-project-headers.hmap" "-F/Users/Matthew/Desktop/Chapter 4/RandomNumber/build/Debug" "-I/Users/Matthew/Desktop/Chapter 4/RandomNumber/build/Debug/include" "-I/Users/Matthew/Desktop/Chapter 4/RandomNumber/build/RandomNumber.build/Debug/RandomNumber.build/DerivedSources/x86_64" "-I/Users/Matthew/Desktop/Chapter 4/RandomNumber/build/RandomNumber.build/Debug/RandomNumber.build/DerivedSources" -include /var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RandomNumber_Prefix-gvdgfnkkfzhfdtaxjcjyuqukufir/RandomNumber_Prefix.pch -c "/Users/Matthew/Desktop/Chapter 4/RandomNumber/RandomNumber.m" -o "/Users/Matthew/Desktop/Chapter 4/RandomNumber/build/RandomNumber.build/Debug/RandomNumber.build/Objects-normal/x86_64/RandomNumber.o"0#
+
+CCompileC build/RandomNumber.build/Debug/RandomNumber.build/Objects-normal/x86_64/RandomNumber.o "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/RandomNumber.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314667586.207628
+e314667586.526488
+r1
+xCompileC
+xbuild/RandomNumber.build/Debug/RandomNumber.build/Objects-normal/x86_64/RandomNumber.o
+x/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/RandomNumber.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/RandomNumber.m314667586#314667587#0(0"0(0#0#85"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/RandomNumber.m8598322720#1940"    cd "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/build/RandomNumber.build/Debug/RandomNumber.build/RandomNumber-generated-files.hmap" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/build/RandomNumber.build/Debug/RandomNumber.build/RandomNumber-own-target-headers.hmap" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/build/RandomNumber.build/Debug/RandomNumber.build/RandomNumber-all-target-headers.hmap" -iquote "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/build/RandomNumber.build/Debug/RandomNumber.build/RandomNumber-project-headers.hmap" "-F/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/build/Debug" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/build/Debug/include" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/build/RandomNumber.build/Debug/RandomNumber.build/DerivedSources/x86_64" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/build/RandomNumber.build/Debug/RandomNumber.build/DerivedSources" -include /var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RandomNumber_Prefix-aklxagmemhrpqlfjdmcygnejvpsa/RandomNumber_Prefix.pch -c "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/RandomNumber.m" -o "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/build/RandomNumber.build/Debug/RandomNumber.build/Objects-normal/x86_64/RandomNumber.o"0#
+
+CLd "/Users/Matthew/Desktop/Chapter 4/RandomNumber/build/Debug/RandomNumber" normal x86_64
+s314614016.063864
+e314614016.081628
+r1
+xLd
+x/Users/Matthew/Desktop/Chapter 4/RandomNumber/build/Debug/RandomNumber
+xnormal
+xx86_64
+lSLF07#2@75"Link /Users/Matthew/Desktop/Chapter 4/RandomNumber/build/Debug/RandomNumber314614016#314614016#0(0"0(0#0#0"8621268960#585"    cd "/Users/Matthew/Desktop/Chapter 4/RandomNumber"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Matthew/Desktop/Chapter 4/RandomNumber/build/Debug" "-F/Users/Matthew/Desktop/Chapter 4/RandomNumber/build/Debug" -filelist "/Users/Matthew/Desktop/Chapter 4/RandomNumber/build/RandomNumber.build/Debug/RandomNumber.build/Objects-normal/x86_64/RandomNumber.LinkFileList" -mmacosx-version-min=10.6 -framework Foundation -o "/Users/Matthew/Desktop/Chapter 4/RandomNumber/build/Debug/RandomNumber"0#
+
+CLd "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/build/Debug/RandomNumber" normal x86_64
+s314667586.526612
+e314667587.313518
+r1
+xLd
+x/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/build/Debug/RandomNumber
+xnormal
+xx86_64
+lSLF07#2@100"Link /Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/build/Debug/RandomNumber314667586#314667587#0(0"0(0#0#0"8595542496#710"    cd "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/build/Debug" "-F/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/build/Debug" -filelist "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/build/RandomNumber.build/Debug/RandomNumber.build/Objects-normal/x86_64/RandomNumber.LinkFileList" -mmacosx-version-min=10.6 -framework Foundation -o "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/build/Debug/RandomNumber"0#
+
+CProcessPCH /var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RandomNumber_Prefix-aklxagmemhrpqlfjdmcygnejvpsa/RandomNumber_Prefix.pch.gch RandomNumber_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314667570.280571
+e314667586.207464
+r1
+xProcessPCH
+x/var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RandomNumber_Prefix-aklxagmemhrpqlfjdmcygnejvpsa/RandomNumber_Prefix.pch.gch
+xRandomNumber_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile RandomNumber_Prefix.pch314667570#314667586#0(0"0(0#0#94"/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/RandomNumber_Prefix.pch7449367665700842496#1791"    cd "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/build/RandomNumber.build/Debug/RandomNumber.build/RandomNumber-generated-files.hmap" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/build/RandomNumber.build/Debug/RandomNumber.build/RandomNumber-own-target-headers.hmap" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/build/RandomNumber.build/Debug/RandomNumber.build/RandomNumber-all-target-headers.hmap" -iquote "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/build/RandomNumber.build/Debug/RandomNumber.build/RandomNumber-project-headers.hmap" "-F/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/build/Debug" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/build/Debug/include" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/build/RandomNumber.build/Debug/RandomNumber.build/DerivedSources/x86_64" "-I/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/build/RandomNumber.build/Debug/RandomNumber.build/DerivedSources" -c "/Users/Matthew/Desktop/Objective-C for Absolute Beginners/RandomNumber/RandomNumber_Prefix.pch" -o /var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RandomNumber_Prefix-aklxagmemhrpqlfjdmcygnejvpsa/RandomNumber_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RandomNumber_Prefix-gvdgfnkkfzhfdtaxjcjyuqukufir/RandomNumber_Prefix.pch.gch RandomNumber_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314612866.512828
+e314612868.902502
+r1
+xProcessPCH
+x/var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RandomNumber_Prefix-gvdgfnkkfzhfdtaxjcjyuqukufir/RandomNumber_Prefix.pch.gch
+xRandomNumber_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile RandomNumber_Prefix.pch314612866#314612868#0(0"0(0#0#69"/Users/Matthew/Desktop/Chapter 4/RandomNumber/RandomNumber_Prefix.pch8620414176#1541"    cd "/Users/Matthew/Desktop/Chapter 4/RandomNumber"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Matthew/Desktop/Chapter 4/RandomNumber/build/RandomNumber.build/Debug/RandomNumber.build/RandomNumber-generated-files.hmap" "-I/Users/Matthew/Desktop/Chapter 4/RandomNumber/build/RandomNumber.build/Debug/RandomNumber.build/RandomNumber-own-target-headers.hmap" "-I/Users/Matthew/Desktop/Chapter 4/RandomNumber/build/RandomNumber.build/Debug/RandomNumber.build/RandomNumber-all-target-headers.hmap" -iquote "/Users/Matthew/Desktop/Chapter 4/RandomNumber/build/RandomNumber.build/Debug/RandomNumber.build/RandomNumber-project-headers.hmap" "-F/Users/Matthew/Desktop/Chapter 4/RandomNumber/build/Debug" "-I/Users/Matthew/Desktop/Chapter 4/RandomNumber/build/Debug/include" "-I/Users/Matthew/Desktop/Chapter 4/RandomNumber/build/RandomNumber.build/Debug/RandomNumber.build/DerivedSources/x86_64" "-I/Users/Matthew/Desktop/Chapter 4/RandomNumber/build/RandomNumber.build/Debug/RandomNumber.build/DerivedSources" -c "/Users/Matthew/Desktop/Chapter 4/RandomNumber/RandomNumber_Prefix.pch" -o /var/folders/qI/qIhZ5CjfF6ST7-5xrspH1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RandomNumber_Prefix-gvdgfnkkfzhfdtaxjcjyuqukufir/RandomNumber_Prefix.pch.gch0#
+

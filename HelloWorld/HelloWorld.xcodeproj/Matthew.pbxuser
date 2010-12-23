@@ -1,0 +1,145 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 34BD3F1112BF3C98009FE0DD /* HelloWorld */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* HelloWorld */;
+		breakpoints = (
+		);
+		codeSenseManager = 34BD3F1812BF3CB9009FE0DD /* Code sense */;
+		executables = (
+			34BD3F1112BF3C98009FE0DD /* HelloWorld */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					856,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 314522776;
+			PBXWorkspaceStateSaveDate = 314522776;
+		};
+		perUserProjectItems = {
+			34BD3F1C12BF3DB4009FE0DD /* PBXTextBookmark */ = 34BD3F1C12BF3DB4009FE0DD /* PBXTextBookmark */;
+			34BD3F4F12BF443C009FE0DD /* PBXTextBookmark */ = 34BD3F4F12BF443C009FE0DD /* PBXTextBookmark */;
+		};
+		sourceControlManager = 34BD3F1712BF3CB9009FE0DD /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* HelloWorld.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1034, 361}}";
+			sepNavSelRange = "{338, 0}";
+			sepNavVisRange = "{0, 373}";
+		};
+	};
+	34BD3F1112BF3C98009FE0DD /* HelloWorld */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = HelloWorld;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	34BD3F1712BF3CB9009FE0DD /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	34BD3F1812BF3CB9009FE0DD /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	34BD3F1C12BF3DB4009FE0DD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* HelloWorld.m */;
+		rLen = 1;
+		rLoc = 0;
+		rType = 1;
+	};
+	34BD3F4F12BF443C009FE0DD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* HelloWorld.m */;
+		name = "HelloWorld.m: 9";
+		rLen = 0;
+		rLoc = 338;
+		rType = 0;
+		vrLen = 373;
+		vrLoc = 0;
+	};
+	8DD76F960486AA7600D96B5E /* HelloWorld */ = {
+		activeExec = 0;
+		executables = (
+			34BD3F1112BF3C98009FE0DD /* HelloWorld */,
+		);
+	};
+}

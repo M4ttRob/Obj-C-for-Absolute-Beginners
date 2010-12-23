@@ -1,0 +1,179 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 34D0269312C1A13F009F7260 /* My First App */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* My First App */;
+		addToTargets = (
+			8DD76F960486AA7600D96B5E /* My First App */,
+		);
+		codeSenseManager = 34D0269A12C1A15D009F7260 /* Code sense */;
+		executables = (
+			34D0269312C1A13F009F7260 /* My First App */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					597,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 314695714;
+			PBXWorkspaceStateSaveDate = 314695714;
+		};
+		perUserProjectItems = {
+			34CC34EC12C1E8B9008A6EFC /* PBXTextBookmark */ = 34CC34EC12C1E8B9008A6EFC /* PBXTextBookmark */;
+			34D026E612C1B4FF009F7260 /* PBXTextBookmark */ = 34D026E612C1B4FF009F7260 /* PBXTextBookmark */;
+			34D026E712C1B4FF009F7260 /* PBXTextBookmark */ = 34D026E712C1B4FF009F7260 /* PBXTextBookmark */;
+			34D026E812C1B4FF009F7260 /* PBXTextBookmark */ = 34D026E812C1B4FF009F7260 /* PBXTextBookmark */;
+			34D026EA12C1B4FF009F7260 /* PBXTextBookmark */ = 34D026EA12C1B4FF009F7260 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 34D0269912C1A15D009F7260 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* My First App.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {775, 432}}";
+			sepNavSelRange = "{353, 0}";
+			sepNavVisRange = "{0, 390}";
+		};
+	};
+	32A70AAB03705E1F00C91783 /* My First App_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {775, 432}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 166}";
+		};
+	};
+	34CC34EC12C1E8B9008A6EFC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 34D0269C12C1A2E4009F7260 /* HelloWorld.m */;
+		name = "HelloWorld.m: 19";
+		rLen = 0;
+		rLoc = 299;
+		rType = 0;
+		vrLen = 384;
+		vrLoc = 0;
+	};
+	34D0269312C1A13F009F7260 /* My First App */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "My First App";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	34D0269912C1A15D009F7260 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	34D0269A12C1A15D009F7260 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	34D0269B12C1A2E4009F7260 /* HelloWorld.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {775, 432}}";
+			sepNavSelRange = "{212, 0}";
+			sepNavVisRange = "{0, 286}";
+		};
+	};
+	34D0269C12C1A2E4009F7260 /* HelloWorld.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {775, 426}}";
+			sepNavSelRange = "{299, 0}";
+			sepNavVisRange = "{0, 384}";
+		};
+	};
+	34D026E612C1B4FF009F7260 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32A70AAB03705E1F00C91783 /* My First App_Prefix.pch */;
+		name = "My First App_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 166;
+		vrLoc = 0;
+	};
+	34D026E712C1B4FF009F7260 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* My First App.m */;
+		name = "My First App.m: 13";
+		rLen = 0;
+		rLoc = 353;
+		rType = 0;
+		vrLen = 390;
+		vrLoc = 0;
+	};
+	34D026E812C1B4FF009F7260 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 34D0269B12C1A2E4009F7260 /* HelloWorld.h */;
+		name = "HelloWorld.h: 15";
+		rLen = 0;
+		rLoc = 212;
+		rType = 0;
+		vrLen = 286;
+		vrLoc = 0;
+	};
+	34D026EA12C1B4FF009F7260 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 34D0269C12C1A2E4009F7260 /* HelloWorld.m */;
+		name = "HelloWorld.m: 19";
+		rLen = 0;
+		rLoc = 299;
+		rType = 0;
+		vrLen = 384;
+		vrLoc = 0;
+	};
+	8DD76F960486AA7600D96B5E /* My First App */ = {
+		activeExec = 0;
+		executables = (
+			34D0269312C1A13F009F7260 /* My First App */,
+		);
+	};
+}
